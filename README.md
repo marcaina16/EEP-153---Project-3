@@ -19,8 +19,6 @@ All datasets are stored in the `data/` folder.
 ## 📈 Goals
 The project includes:
 
-- Goals: 
-
 - Estimate a Constant Frisch Elasticity (CFE) food demand system on 6,125 Malian households to recover income elasticities and demographic demand effects
 - Compare diet composition and nutrient intensity across per-capita spending quartiles
 - Solve for the minimum-cost nutritious diet using linear programming and Mali food prices, then test whether bottom-quartile households can afford it
